@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <EditText
+        android:id="@+id/edtFbName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Họ &amp; Tên của bạn" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/edtFbEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Địa chỉ email"
+        android:inputType="textEmailAddress" />
+
+    <TextView
+        android:id="@+id/lblMaTL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Đánh giá ứng dụng"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/radTot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="Tốt" />
+
+        <RadioButton
+            android:id="@+id/radTB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Trung Bình" />
+
+        <RadioButton
+            android:id="@+id/radCT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chưa tốt" />
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/edtFb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.99"
+        android:ems="10"
+        android:hint="Ý kiến về ứng dụng" />
+
+    <Button
+        android:id="@+id/btnFb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gửi" />
+
+</LinearLayout>

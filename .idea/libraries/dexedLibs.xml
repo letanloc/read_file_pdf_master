@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/android-support-v7-appcompat-50f2327f108ca39c3b9456d681886867.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/simple-xml-2.6.7-0bf8d05a9e6bb4547632a8ee926bd51b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/plugpdf-548b6519d271cc778fc786e2c5467a51.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/android-support-v4-33106ef6456b07b32366cf03be75e479.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/microlog4android-1.0.0-c46a829741284b05532e129ae138855e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/appcompat_v7-3707d607f0e838147fbd811359f16780.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/LogdogClient-2737f43c861819076269213bc2cccdb0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/plugpdfcore-30fb066819df06f35d9aa412e75e0bf3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/PdfViewer-cb03b12fed9fdcd23192c0c1747ab72f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/android-support-v4-81a0ae29f0630ce05f7af8550f96c717.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/picasso-2.3.3-4b724b238769f4e0ca020eaf4134e7e1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/commons-logging-1.1.1-c4941948899dcae9b7ac12078bc407e0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/NineOldAndroid-2.4.0-a2691e58f62161bc4b80a200b6d57987.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/library-1ffe05245486601108fad85c80a5923c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/android-support-v7-appcompat-83b8de0bd2e2bb4d3bb28aad320aadc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/android-support-v7-appcompat-70c8303e96e99ea1e99c1f841f6834bb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GocTruyen/bin/dexedLibs/PdfViewer-ffae0ef8d09b39760c7414aca2066f2d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

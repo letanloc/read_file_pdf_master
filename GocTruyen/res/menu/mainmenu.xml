@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/mnu_open"
+        android:icon="@drawable/open"
+        android:title="@string/miopen">
+    </item>
+    <item
+        android:id="@+id/mnu_goto"
+        android:icon="@drawable/gotopage"
+        android:title="@string/migoto">
+    </item>
+    <item
+        android:id="@+id/mnu_mode"
+        android:icon="@drawable/rotate"
+        android:title="@string/mimode">
+    </item>
+
+</menu>

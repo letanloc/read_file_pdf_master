@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="goctruyen.android.com"
+    android:versionCode="2"
+    android:versionName="2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TheLoaiTruyen"
+            android:label="@string/title_activity_phan_loai_truyen" >
+        </activity>
+        <activity
+            android:name=".ListTruyen"
+            android:label="@string/title_activity_list_manga" >
+        </activity>
+        <activity
+            android:name=".XemPDF"
+            android:label="@string/title_activity_view_manga" >
+        </activity>
+        <activity
+            android:name=".QuanLyAdmin"
+            android:label="@string/title_activity_admin_management" >
+        </activity>
+        <activity
+            android:name=".MenuAdmin"
+            android:label="@string/title_activity_menu_admin" >
+        </activity>
+        <activity
+            android:name=".XemTruyenZip"
+            android:label="@string/title_activity_xem_truyen_zip" >
+        </activity>
+        <activity
+            android:name=".LoadSDcard"
+            android:label="@string/title_activity_load_sdcard" >
+        </activity>
+    </application>
+
+</manifest>

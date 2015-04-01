@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Góc Truyện Tranh</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_admin">Login Admin</string>
+    <string name="title_activity_phan_loai_truyen">Thể loại</string>
+    <string name="title_activity_list_manga">Danh sách truyện</string>
+    <string name="title_activity_view_manga">::..Góc truyện..::</string>
+    <string name="action_login">Login</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="title_activity_admin_management">Quản Lý Admin</string>
+    <string name="title_activity_menu_admin">Menu Admin</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="filename">"Enter filename : "</string>
+    <string name="miopen">Mở file</string>
+    <string name="migoto">Nhảy trang</string>
+    <string name="mimode">Căn chỉnh</string>
+    <string name="title_activity_xem_truyen_zip">XemTruyenZip</string>
+    <string name="title_activity_load_sdcard">LoadSDcard</string>
+
+</resources>
